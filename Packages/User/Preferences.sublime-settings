@@ -1,29 +1,28 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
-	"detect_indentation": false,
-	"font_face": "Inconsolata",
-	"font_size": 14,
-	"gutter": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"indent_to_bracket": false,
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"rulers":
-	[
-		80,
-		120
-	],
-	"scroll_past_end": true,
-	"tab_size": 4,
-	"theme": "Sodarized Dark 3.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"use_simple_full_screen": true,
-	"use_tab_stops": true,
-  "hot_exit": false,
-  "remember_open_files": false
+    "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+    "detect_indentation": false,
+    "font_face": "Inconsolata",
+    "font_size": 14,
+    "gutter": true,
+    "ignored_packages":
+    [
+       "Vintage"
+    ],
+    "indent_to_bracket": false,
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+    "rulers":
+    [
+        80,
+        120
+    ],
+    "scroll_past_end": true,
+    "tab_size": 4,
+    "theme": "Sodarized Dark 3.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "use_simple_full_screen": true,
+    "use_tab_stops": true,
+    "hot_exit": false,
+    "remember_open_files": false
 }
-
